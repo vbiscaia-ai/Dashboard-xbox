@@ -39,6 +39,7 @@ O dashboard conta com um **menu interativo de meses** que permite:
 
 ![Menu de Segmentação de Meses](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/menu_dashboard.png?raw=true)
 
+
 ---
 
 ## 📂 Acesso ao Arquivo
