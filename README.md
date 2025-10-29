@@ -35,7 +35,7 @@ Com os dados corrigidos, foi possível identificar:
 ## 🖼️ Dashboard Final
 Abaixo está a versão final do dashboard, comparando mês a mês as vendas de 2024 entre **Minecraft** e **EA Play Plus**:
 
-![Dashboard de Vendas 2024](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/dashboard.png)
+![Dashboard de Vendas 2024](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/dashboard.png?raw=true)
 
 ---
 
@@ -44,13 +44,13 @@ O dashboard conta com um **menu interativo de meses**, que permite:
 - **Clicar em um mês específico** para analisar isoladamente.  
 - **Clicar, segurar e arrastar** para selecionar vários meses de uma vez.  
 
-![Menu de Segmentação de Meses](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/menu_dashboard.png)
+![Menu de Segmentação de Meses](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/menu_dashboard.png?raw=true)
 
 ---
 
 ## 📂 Acesso ao Arquivo
 O arquivo do dashboard está disponível aqui:  
-[📥 Baixar DASH BOARD XBOX VENDAS.xlsx](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/DASH%20BOARD%20XBOX%20VENDAS.xlsx)
+[📥 Baixar DASH BOARD XBOX VENDAS.xlsx](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/DASH%20BOARD%20XBOX%20VENDAS.xlsx?raw=true)
 
 ---
 
