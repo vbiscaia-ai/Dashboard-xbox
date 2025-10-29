@@ -32,20 +32,19 @@ Com os dados corrigidos foi possível identificar:
 
 ---
 
-## 🗂️ Menu de Segmentação de Meses
-O dashboard conta com um **menu interativo de meses** que permite:  
+## 🖼️ Dashboard Final
+O dashboard conta com um **menu interativo de meses**, que permite:  
 - **Clicar em um mês** para análise isolada.  
 - **Clicar, segurar e arrastar** para selecionar vários meses simultaneamente.
 
 ![Menu de Segmentação de Meses](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/menu_dashboard.png?raw=true)
-
 
 ---
 
 ## 📂 Acesso ao Arquivo
 O arquivo do dashboard está disponível para download:
 
-[📥 Baixar DASH BOARD XBOX VENDAS.xlsx](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/DASH%20BOARD%20XBOX%20VENDAS.xlsx?raw=true)
+[📥 Baixar DASH_BOARD_XBOX_VENDAS.xlsx](https://github.com/vbiscaia-ai/Dashboard-xbox/blob/main/docs/DASH_BOARD_XBOX_VENDAS.xlsx?raw=true)
 
 ---
 
